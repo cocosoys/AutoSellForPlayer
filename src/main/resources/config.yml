@@ -1,0 +1,11 @@
+autoSellMessage:
+  enable: true
+  message: "&e[asfp]&2\u62fe\u53d6\u7269\u54c1 @ITEMNAME@ \u81ea\u52a8\u51fa\u552e,\u83b7\u5f97&6 @MONEY@ &2\u5143"
+autoSell:
+  '0':
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: GOLD_ORE
+    sell:
+      min: 100.0
+      max: 100.0

@@ -1,0 +1,10 @@
+name: AutoSellForPlayer
+version: '${project.version}'
+main: soys.autosellforplayer.Main
+depend:
+  - Vault
+commands:
+  autoSellForPlayer:
+    aliases:
+      - asfp
+    description: /asfp reload ,/asfp testmod ,/asfp autosell <min> <max>
