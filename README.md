@@ -12,3 +12,5 @@
 - /asfp autosell <最小价格> <最大价格> 将手中物品设置为自动出售匹配物
 - /asfp testmod 开启调试模式,信息将输出至后台
 
+若你遇到问题，请输入/dmineral testmod，重复一次你所发现的问题，并将后台输出的dmineral 数据发送给作者。
+
